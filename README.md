@@ -1,4 +1,6 @@
 ## Hi there 👋
+I’m currently working on 2D games 
+ I’m looking for help with 2d games 
 
 <!--
 **lincoln2006/lincoln2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
